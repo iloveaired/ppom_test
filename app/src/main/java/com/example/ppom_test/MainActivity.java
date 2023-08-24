@@ -34,6 +34,7 @@ private ActivityMainBinding binding;
         binding.fab.setOnClickListener(new View.OnClickListener() {
 
             // release DOCUMENT v1
+            // release Doc2
             @Override
             public void onClick(View view) {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
