@@ -34,8 +34,11 @@ private ActivityMainBinding binding;
         binding.fab.setOnClickListener(new View.OnClickListener() {
 
             // release DOCUMENT v1
+
+            int i =2;
             @Override
             public void onClick(View view) {
+                int a=0;
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
