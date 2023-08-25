@@ -13,6 +13,8 @@
 .idea/modules.xml
 .idea/scopes/scope_settings.xml
 .idea/vcs.xml
+.idea/.gitignore
+.idea/gradle.xml
 *.iml
 .DS_Store
 
