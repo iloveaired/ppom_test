@@ -35,9 +35,10 @@ private ActivityMainBinding binding;
 
             // release DOCUMENT v1
             // release Doc2
+
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Replace with your own action1", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
